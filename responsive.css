@@ -1,0 +1,168 @@
+
+
+
+@media (min-width:1161px) and (max-width:1420px){
+
+    .login{
+
+        /* width: 400px; */
+
+        background-color: azure;
+
+        border-radius: 12px;    
+
+    }
+
+    .container{
+
+        /* display: grid; */
+
+        margin: 100px 100px;
+
+    }
+
+}
+
+ 
+
+@media (max-width:1171px) {
+
+    #contap{
+
+        display: grid;
+
+        margin-top: 10px;
+
+        width: fit-content;
+
+        margin: 90px 300px;
+
+        /* margin: initial; */
+
+    }
+
+    #log{
+
+        border-radius: 12px;    
+
+        /* width: 780px; */
+
+    }
+
+}
+
+ 
+
+@media (min-width:913px) and (max-width:1114px) {
+
+    #contap{
+
+        margin: 10px 200px;
+
+    }
+
+}
+
+ 
+
+@media (min-width:760px) and (max-width:913px) {
+
+    #contap{
+
+        margin: 10px 100px;
+
+    }
+
+}
+
+ 
+
+@media (min-width:700px) and (max-width:760px) {
+
+    #contap{
+
+        margin: 10px 50px;
+
+    }
+
+}
+
+ 
+
+@media (max-width:710px) {
+
+    #contap{
+
+        margin: 10px 20px;
+
+        width: 560px;
+
+        padding: 20px;
+
+        /* background-color: navy; */
+
+    }
+
+ 
+
+    #body{
+
+        background: black;
+
+    }
+
+ 
+
+    #log{
+
+        width: 556px;
+
+    }
+
+ 
+
+    #input{
+
+        width: 300px;
+
+        margin-left: 80px;
+
+    }
+
+ 
+
+    #loginkadiv{
+
+        margin: 50px;
+
+    }
+
+    #btn-12{
+
+        margin: 20px 80px;
+
+    }
+
+ 
+
+    #websitep{
+
+        color: white;
+
+    }
+
+ 
+
+    #website{
+
+        background: rgb(88, 6, 92);
+
+        background: linear-gradient(90deg, rgba(88, 6, 92, 1) 0%, rgba(108, 9, 121, 1) 50%, rgba(0, 212, 255, 1) 100%);
+
+        border-radius: 12px;
+
+        width: 556px;
+
+    }
+
+}

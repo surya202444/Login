@@ -13,6 +13,9 @@
             
       
     }
+    .website{
+        width: 00px;
+    }
 
     .container{
 
@@ -91,13 +94,13 @@
 
  
 
-@media (max-width:601px) {
+@media (max-width:450px) {
 
     #contap{
 
         margin: 10px 20px;
 
-        width: 550px;
+        width: 350px;
 
         padding: 20px;
 
@@ -117,7 +120,7 @@
 
     #log{
 
-        width: 400px;
+        width: 350px;
 
     }
 
@@ -125,9 +128,9 @@
 
     #input{
 
-        width: 300px;
+        width: 230px;
 
-        margin-left: 50px;
+        margin-left: 60px;
 
     }
 
@@ -154,16 +157,21 @@
     }
 
  
+#web{
+    width: 350px;
+}
+
 
     #website{
-
+      
         background: rgb(88, 6, 92);
 
         background: linear-gradient(90deg, rgba(88, 6, 92, 1) 0%, rgba(108, 9, 121, 1) 50%, rgba(0, 212, 255, 1) 100%);
 
         border-radius: 12px;
 
-        width: 556px;}}
+        }
+    }
 
 
 

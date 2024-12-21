@@ -89,7 +89,7 @@
 
  
 
-@media (max-width:710px) {
+@media (max-width:701px) {
 
     #contap{
 
@@ -115,7 +115,7 @@
 
     #log{
 
-        width: 556px;
+        width: 400px;
 
     }
 
@@ -125,7 +125,7 @@
 
         width: 300px;
 
-        margin-left: 80px;
+        margin-left: 50px;
 
     }
 
